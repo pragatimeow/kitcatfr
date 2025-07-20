@@ -1,0 +1,24 @@
+{
+  "name": "kitcat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@prisma/client": "^6.12.0",
+    "bottleneck": "^2.19.5",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.0",
+    "http": "^0.0.1-security",
+    "kazagumo": "^3.3.0",
+    "kazagumo-spotify": "^2.1.1",
+    "mongodb": "^6.17.0",
+    "prisma": "^6.12.0",
+    "shoukaku": "^4.1.1"
+  }
+}
